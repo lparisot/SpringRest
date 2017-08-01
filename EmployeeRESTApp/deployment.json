@@ -1,0 +1,14 @@
+{
+  "memory": "8",
+  "instances": 1,
+  "services": [
+    {
+      "id": "",
+      "name": "",
+      "type": "",
+      "username": "",
+      "userpassword": ""
+    }
+  ],
+  "environment": {}
+}

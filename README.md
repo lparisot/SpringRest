@@ -17,3 +17,5 @@ $ curl -i -X GET http://<HOSTNAME>:8080/employees/lastname/J
 $ curl -i -X GET http://<HOSTNAME>:8080/employees/title/National
 $ curl -i -X GET http://<HOSTNAME>:8080/employees/departement/Mobility
 ```
+
+Or launch rest-client/client.html
