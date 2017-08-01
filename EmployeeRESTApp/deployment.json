@@ -1,5 +1,5 @@
 {
-  "memory": "8",
+  "memory": "1",
   "instances": 1,
   "services": [
     {
